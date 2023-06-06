@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yonathanzz
-- 👀 I’m interested in database, web programming
-- 🌱 I’m currently learning android app
+- 👀 I’m interested in Laravel Full Stack Programming, and MySQL Database.
+- 🌱 I’m currently learning Native Android App Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
